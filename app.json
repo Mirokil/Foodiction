@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Foodiction",
+    "slug": "Foodiction",
+    "version": "1.0.0",
+    "owner": "mirokil_98",
+    "orientation": "portrait",
+    "icon": "./assets/icons/logo.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#1d2024"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/logo.png",
+        "backgroundColor": "#1d2024"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icons/logo.png"
+    }
+  }
+}
