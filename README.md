@@ -1,5 +1,7 @@
 # Foodiction
 
+![Foodiction Thumbnail](https://user-images.githubusercontent.com/50965077/174906479-18a1bbb3-a60b-48ce-865a-165944e45305.png)
+
 Developed using React Native, a popular JavaScript framework, Foodiction is a  
 cross-platform* QR-Based Mobile Ordering Application.
 
